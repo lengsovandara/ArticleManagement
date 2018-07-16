@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArticleManagement.iml" filepath="$PROJECT_DIR$/ArticleManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_android.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_android.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_desktop.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_embedded.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_ios.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_main.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ArticleManagementApp/ArticleManagementApp_test.iml" group="ArticleManagementApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Support-ArticleManagement.iml" filepath="$PROJECT_DIR$/.idea/modules/Support-ArticleManagement.iml" />
+    </modules>
+  </component>
+</project>
